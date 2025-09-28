@@ -10,7 +10,7 @@ services:
     environment:
       - NODE_ENV=production
   mongo:
-    image: mongo:6.0
+    image: mongo:latest
     ports:
       - '27017:27017'
     volumes:
