@@ -1,6 +1,6 @@
 {
   "name": "advanced-architecture-model",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dự án Mô Hình Kiến Trúc Mở Rộng",
   "main": "src/index.js",
   "scripts": {
